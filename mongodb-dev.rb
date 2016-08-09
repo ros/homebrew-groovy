@@ -3,7 +3,7 @@ require 'formula'
 class MongodbDev < Formula
   homepage 'http://www.mongodb.org/'
   url 'https://github.com/mongodb/mongo/archive/r2.4.4.tar.gz'
-  sha1 '8aa03a2a4acd9ba4f0cbc0a9bdb6742409ada14c'
+  sha256 '92834bf26438ce36dbfbb24694201454db26af1aef734cb730667ff3c7c058ba'
   version '2.4.4'
 
   depends_on 'scons'
