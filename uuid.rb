@@ -4,7 +4,7 @@ class Uuid < Formula
   homepage 'http://www.ossp.org/pkg/lib/uuid/'
   url 'ftp://ftp.ossp.org/pkg/lib/uuid/uuid-1.6.2.tar.gz'
   mirror 'http://gnome-build-stage-1.googlecode.com/files/uuid-1.6.2.tar.gz'
-  sha1 '3e22126f0842073f4ea6a50b1f59dcb9d094719f'
+  sha256 '11a615225baa5f8bb686824423f50e4427acd3f70d394765bdff32801f0fd5b0'
 
   option :universal
   option "32-bit"
